@@ -21,6 +21,9 @@ fill(0, 102, 153);
 ## subheading
 ### subsubheading
 
+>blockquote
+
+~~strikethrough~~
 
 **bold** 
 *italics*
@@ -31,6 +34,8 @@ fill(0, 102, 153);
 - etc[
 
 [link] (https://en.wikipedia.org/wiki/Main_Page)
+
+
 
 
 
